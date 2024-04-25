@@ -14,5 +14,10 @@ public class Tools2024GruberSchuetz {
 		int b = 2;
 		int result = a + b;
 		System.out.println(result);
+		
+		public void secondMethod() {
+			int c = 12;
+			int d = 3;
+			int result = c * d;
 	}
 }
