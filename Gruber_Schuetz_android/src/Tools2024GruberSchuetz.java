@@ -16,5 +16,7 @@ public class Tools2024GruberSchuetz {
 
 		if (a + b != 3)
 			System.out.println("Die Werte für a & b wurden verändert");
+		else 
+			System.out.println("Die Werte für a & b wurden NICHT verändert");
 	}
 }
