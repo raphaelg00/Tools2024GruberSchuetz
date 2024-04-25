@@ -9,6 +9,7 @@ public class Tools2024GruberSchuetz {
 
 	public void thisIsANewMethod() {
 		System.out.println("Hello World!");
+		String test = "Hello World 2";
 	}
 
 }
