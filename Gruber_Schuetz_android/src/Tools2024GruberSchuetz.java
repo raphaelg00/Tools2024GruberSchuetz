@@ -13,6 +13,8 @@ public class Tools2024GruberSchuetz {
 		int b = 2;
 		int result = a + b;
 		System.out.println(result);
-		
+
+		if (a + b != 3)
+			System.out.println("Die Werte für a & b wurden verändert");
 	}
 }
