@@ -15,9 +15,12 @@ public class Tools2024GruberSchuetz {
 		int result = a + b;
 		System.out.println(result);
 		
+	}
+		
 		public void secondMethod() {
 			int c = 12;
 			int d = 3;
-			int result = c * d;
+			int result2 = c * d;
+			System.out.println(result2);
 	}
 }
