@@ -24,7 +24,8 @@ public class Tools2024GruberSchuetz {
 		int c = 12;
 		int d = 3;
 		int result2 = c * d;
-		System.out.println(result2);
+		System.out.println(result2);		
 		System.out.println("Calculation went well!");
+		System.out.println("Stefan war hier!");
 	}
 }
